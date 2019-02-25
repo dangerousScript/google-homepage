@@ -1,1 +1,1 @@
-Starting first project
+The Odin Project - google-homepage (easy version)
